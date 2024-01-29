@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # 4-rectangle.py
-# ifeanyi kalu
 """Defines a Rectangle class."""
 
 
