@@ -1,2 +1,4 @@
 #function to know the type of an object
+#instruction- no use of ()
 type
+
