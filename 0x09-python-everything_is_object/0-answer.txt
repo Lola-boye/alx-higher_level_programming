@@ -1,1 +1,2 @@
+#function to know the type of an object
 type
